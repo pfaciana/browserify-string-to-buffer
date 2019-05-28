@@ -1,0 +1,29 @@
+{
+	"name": "browserify-string-to-buffer",
+	"version": "1.0.0",
+	"description": "Combine Browserify and Buffer into one wrapper for streams.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pfaciana/browserify-string-to-buffer.git"
+	},
+	"scripts": {},
+	"keywords": [
+		"browserify",
+		"buffer",
+		"gulp",
+		"vinyl",
+		"streams",
+		"transforms",
+		"babelify"
+	],
+	"author": "Phil Faciana <phil@renderdev.com> (https://renderdev.com/)",
+	"license": "MIT",
+	"homepage": "https://github.com/pfaciana/browserify-string-to-buffer",
+	"devDependencies": {
+		"clean-browserify-string": "^1",
+		"through2": "^3",
+		"vinyl-buffer": "^1"
+	},
+	"dependencies": {}
+}
