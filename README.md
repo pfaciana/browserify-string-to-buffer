@@ -1,3 +1,7 @@
+# Notice
+
+This package is being archived and it's functionality has been merged into https://github.com/pfaciana/browserify-buffer in version 1.1.0. Please use that package instead.
+
 # Browserify (string to) Buffer
 Combine Browserify and Buffer into one wrapper for Gulp Vinyl streams using a user defined string as the input.
 
